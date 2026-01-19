@@ -19,7 +19,7 @@ export default function Hero() {
         </h1>
 
         <p className="text-xl md:text-2xl text-white/90 mb-10">
-          Tienda y peluquería de mascotas en Jerez de la Frontera
+          Tienda y peluquería de mascotas
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
